@@ -1,3 +1,3 @@
 ```js
-<script src="https://raw.githubusercontent.com/returnkirbo/oneko.js/main/oneko.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/returnkirbo/oneko.js@master/oneko.js"></script>
 ```
